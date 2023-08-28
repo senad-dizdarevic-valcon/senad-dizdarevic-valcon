@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **AWS, Linux, Bash**
 
-- 📫 How to reach me **senad.dizdarevic.ri@gmail.com**
+- 📫 How to reach me **senad.dizdarevic@valcon.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
