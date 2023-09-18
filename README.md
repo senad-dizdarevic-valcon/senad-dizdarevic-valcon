@@ -1,5 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Senad+Dizdarevic!;" />
 <h3 align="center">DevOps from Croatia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/senad-d/senad-d.github.io/raw/0ed26c56b8da906dfe10ff5835f0eb4fa295db21/_media/gif/giphy.gif">
@@ -52,7 +50,3 @@
 
 <br/><br/>
 <hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
