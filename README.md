@@ -1,6 +1,6 @@
 <h3 align="center">DevOps from Croatia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/senad-d/senad-d.github.io/raw/0ed26c56b8da906dfe10ff5835f0eb4fa295db21/_media/gif/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/senad-d/senad-d.github.io/blob/e82b925bc807706c09bd2d7b544caaece6e665df/_media/gif/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elangosundar&label=Profile%20views&color=0e75b6&style=flat" alt="elangosundar" /> </p>
 
